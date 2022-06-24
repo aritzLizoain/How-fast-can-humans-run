@@ -1,4 +1,4 @@
-# How-fast-can-humans-run
+# How fast can humans run?
 
 ![alt text](https://zigapskraba.files.wordpress.com/2016/08/24141_celebutopia-usain_bolt-men6s_100-meter_final_during_beijing_2008_olympics-13_122_460lo.jpg)
 
