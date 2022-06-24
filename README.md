@@ -23,4 +23,6 @@ A **prediction model** is built for the men's 100m world record, and human perfo
 <img src="https://github.com/aritzLizoain/How-fast-can-humans-run/blob/main/Images/Simulation.gif"/>
 </p>
 
-![alt text](https://github.com/aritzLizoain/How-fast-can-humans-run/blob/main/Images/Prediction.png)
+<p align="center">
+<img src="https://github.com/aritzLizoain/How-fast-can-humans-run/blob/main/Images/Prediction.png"/>
+</p>
