@@ -15,10 +15,6 @@ Field World Records](https://www.degruyter.com/document/doi/10.2202/1559-0410.10
 
 A **prediction model** is built for the men's 100m world record, and human performance limits are estimated using **Monte Carlo** simulations.
 
-<pre>
-<img src="https://github.com/aritzLizoain/How-fast-can-humans-run/blob/main/Images/Simulation.gif" height="400"/>           <img src="https://github.com/aritzLizoain/How-fast-can-humans-run/blob/main/Images/Prediction.png" height="500"/> 
-</pre>
-
 <p align="center">
 <img src="https://github.com/aritzLizoain/How-fast-can-humans-run/blob/main/Images/Simulation.gif"/>
 </p>
